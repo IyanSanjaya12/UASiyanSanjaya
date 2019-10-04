@@ -1,0 +1,5 @@
+uasMaven\Iyan\model\tabunganModel.class
+uasMaven\Iyan\repository\tabunganRepository.class
+uasMaven\Iyan\dao\tabunganDao.class
+uasMaven\Iyan\tabunganApplication.class
+uasMaven\Iyan\controller\tabunganController.class
